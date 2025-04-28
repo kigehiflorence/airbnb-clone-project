@@ -42,6 +42,7 @@ Key features to be implemented:
 - Consistent color scheme and typography.
 - Easy-to-use forms for booking and authentication.
 - Clear call-to-action buttons for user interactions.
+-
 
 ### Primary Pages
 
