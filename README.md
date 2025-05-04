@@ -73,6 +73,41 @@ Key features to be implemented:
 
 Identifying design properties such as color styles and typography ensures consistency across the application. It helps maintain a cohesive visual identity, improves readability, and enhances the overall user experience. These properties also serve as a foundation for creating mockups and prototypes, ensuring that the final design aligns with the project's goals.
 
+###Importance of a User-Friendly Design in a Booking System
+A user-friendly design is crucial in a booking system for several reasons:
+
+Ease of Use:
+A booking system should be easy for users to navigate, whether they’re tech-savvy or not. Simple, clear layouts help users find what they need quickly — whether it’s booking a ticket, reserving a room, or scheduling an appointment.
+
+Reduces Errors:
+If a design is confusing, users might make mistakes when selecting dates, times, or services. A well-designed system minimizes these risks by guiding users step by step, with clear instructions and confirmation pages.
+
+Improves Customer Satisfaction:
+A seamless and hassle-free booking experience leaves a positive impression on users, making them more likely to return and recommend the service to others.
+
+Saves Time:
+A clean, intuitive interface speeds up the booking process, benefiting both the user and the business by increasing efficiency and reducing the need for customer support.
+
+Boosts Accessibility:
+A good design ensures the system can be used by people with various abilities, devices, and internet speeds — widening the customer base.
+
+###Importance of Identifying Design Properties of a Mock-Up Design
+Mock-up designs are early visual representations of a final product. Identifying their design properties is essential because:
+
+Clarifies Visual Elements:
+It helps designers and stakeholders understand what colors, fonts, layouts, and images will be used — ensuring consistency and brand alignment.
+
+Ensures Functionality:
+Identifying properties like button placements, navigation flow, and interactive elements helps predict how users will interact with the final product, reducing usability problems later.
+
+Allows for Early Feedback:
+Mock-ups make it easier to gather opinions from clients, team members, or test users before development begins — saving time and money on later adjustments.
+
+Improves Communication:
+A well-detailed mock-up bridges the gap between designers, developers, and clients by showing exactly what’s intended, minimizing misunderstandings.
+
+Supports Better Decision-Making:
+By evaluating the design properties early, teams can make informed decisions about what works, what doesn’t, and what can be improved before committing resources to development.
 ---
 
 ## Project Roles and Responsibilities 👥
