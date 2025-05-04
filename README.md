@@ -73,7 +73,7 @@ Key features to be implemented:
 
 Identifying design properties such as color styles and typography ensures consistency across the application. It helps maintain a cohesive visual identity, improves readability, and enhances the overall user experience. These properties also serve as a foundation for creating mockups and prototypes, ensuring that the final design aligns with the project's goals.
 
-###Importance of a User-Friendly Design in a Booking System
+       Importance of a User-Friendly Design in a Booking System
 A user-friendly design is crucial in a booking system for several reasons:
 
 Ease of Use:
@@ -91,7 +91,7 @@ A clean, intuitive interface speeds up the booking process, benefiting both the 
 Boosts Accessibility:
 A good design ensures the system can be used by people with various abilities, devices, and internet speeds — widening the customer base.
 
-###Importance of Identifying Design Properties of a Mock-Up Design
+        Importance of Identifying Design Properties of a Mock-Up Design
 Mock-up designs are early visual representations of a final product. Identifying their design properties is essential because:
 
 Clarifies Visual Elements:
