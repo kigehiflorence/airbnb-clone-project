@@ -106,8 +106,7 @@ Mock-ups make it easier to gather opinions from clients, team members, or test u
 Improves Communication:
 A well-detailed mock-up bridges the gap between designers, developers, and clients by showing exactly what’s intended, minimizing misunderstandings.
 
-Supports Better Decision-Making:
-By evaluating the design properties early, teams can make informed decisions about what works, what doesn’t, and what can be improved before committing resources to development.
+
 ---
 
 ## Project Roles and Responsibilities 👥
